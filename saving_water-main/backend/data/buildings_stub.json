@@ -1,0 +1,443 @@
+[
+  {
+    "building_id": "ca_la_001",
+    "address": "333 S Hope St, Los Angeles, CA",
+    "lat": 34.0522,
+    "lng": -118.2551,
+    "metro": "Los Angeles",
+    "state": "CA",
+    "building_type": "office_tower",
+    "roof_area_sqft": 110000,
+    "roof_geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [-118.2551, 34.0522],
+          [-118.2556, 34.0522],
+          [-118.2556, 34.0527],
+          [-118.2551, 34.0527],
+          [-118.2551, 34.0522]
+        ]
+      ]
+    },
+    "cooling_tower_present": true,
+    "cooling_tower_count": 2,
+    "cv_confidence_score": 0.82,
+    "imagery_date": "2023-05-30",
+    "imagery_source": "Sentinel-2",
+    "imagery_url": "/data/imagery/ca_la_001.png",
+    "annual_rainfall_in": 15,
+    "harvestable_gal_yr": 1000000,
+    "drought_risk_index": 9.5,
+    "flood_risk_index": 3.2,
+    "water_rate_per_kgal": 7.9,
+    "sewer_rate_per_kgal": 8.8,
+    "annual_water_savings_usd": 7900,
+    "annual_sewer_savings_usd": 7000,
+    "incentive_value_usd": 22000,
+    "system_capex_range": [170000, 250000],
+    "simple_payback_yrs": 9.0,
+    "npv_10yr_usd": 68000,
+    "confidence_adj_roi_pct": 7.2,
+    "urgency_score": 10,
+    "urgency_drivers": [
+      "Severe water scarcity",
+      "Cooling tower demand",
+      "Regulatory pressure on water reuse"
+    ],
+    "recommended_angle": "resilience",
+    "viability_score": 85
+  },
+  {
+    "building_id": "ca_la_002",
+    "address": "515 S Flower St, Los Angeles, CA",
+    "lat": 34.0505,
+    "lng": -118.2576,
+    "metro": "Los Angeles",
+    "state": "CA",
+    "building_type": "office_campus",
+    "roof_area_sqft": 96000,
+    "roof_geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [-118.2576, 34.0505],
+          [-118.2580, 34.0505],
+          [-118.2580, 34.0509],
+          [-118.2576, 34.0509],
+          [-118.2576, 34.0505]
+        ]
+      ]
+    },
+    "cooling_tower_present": true,
+    "cooling_tower_count": 1,
+    "cv_confidence_score": 0.79,
+    "imagery_date": "2023-06-08",
+    "imagery_source": "Sentinel-2",
+    "imagery_url": "/data/imagery/ca_la_002.png",
+    "annual_rainfall_in": 15,
+    "harvestable_gal_yr": 860000,
+    "drought_risk_index": 9.1,
+    "flood_risk_index": 3.5,
+    "water_rate_per_kgal": 7.6,
+    "sewer_rate_per_kgal": 8.4,
+    "annual_water_savings_usd": 6536,
+    "annual_sewer_savings_usd": 6020,
+    "incentive_value_usd": 18000,
+    "system_capex_range": [150000, 225000],
+    "simple_payback_yrs": 9.4,
+    "npv_10yr_usd": 54000,
+    "confidence_adj_roi_pct": 6.5,
+    "urgency_score": 9,
+    "urgency_drivers": [
+      "High utility rates",
+      "Water resilience pressure",
+      "Large impermeable roof area"
+    ],
+    "recommended_angle": "cost_savings",
+    "viability_score": 81
+  },
+  {
+    "building_id": "ca_sf_001",
+    "address": "1 Market St, San Francisco, CA",
+    "lat": 37.7936,
+    "lng": -122.3958,
+    "metro": "San Francisco",
+    "state": "CA",
+    "building_type": "office_highrise",
+    "roof_area_sqft": 98000,
+    "roof_geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [-122.3958, 37.7936],
+          [-122.3962, 37.7936],
+          [-122.3962, 37.7940],
+          [-122.3958, 37.7940],
+          [-122.3958, 37.7936]
+        ]
+      ]
+    },
+    "cooling_tower_present": true,
+    "cooling_tower_count": 1,
+    "cv_confidence_score": 0.74,
+    "imagery_date": "2023-06-18",
+    "imagery_source": "Sentinel-2",
+    "imagery_url": "/data/imagery/ca_sf_001.png",
+    "annual_rainfall_in": 23,
+    "harvestable_gal_yr": 1400000,
+    "drought_risk_index": 9.2,
+    "flood_risk_index": 6.8,
+    "water_rate_per_kgal": 8.1,
+    "sewer_rate_per_kgal": 9.4,
+    "annual_water_savings_usd": 11340,
+    "annual_sewer_savings_usd": 9870,
+    "incentive_value_usd": 30000,
+    "system_capex_range": [200000, 300000],
+    "simple_payback_yrs": 8.5,
+    "npv_10yr_usd": 95000,
+    "confidence_adj_roi_pct": 6.5,
+    "urgency_score": 9,
+    "urgency_drivers": [
+      "Extreme water cost pressure",
+      "Strict environmental regulation",
+      "Corporate ESG reporting requirements"
+    ],
+    "recommended_angle": "compliance",
+    "viability_score": 79
+  },
+  {
+    "building_id": "ca_sf_002",
+    "address": "425 Mission St, San Francisco, CA",
+    "lat": 37.7897,
+    "lng": -122.3969,
+    "metro": "San Francisco",
+    "state": "CA",
+    "building_type": "mixed_use",
+    "roof_area_sqft": 87000,
+    "roof_geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [-122.3969, 37.7897],
+          [-122.3973, 37.7897],
+          [-122.3973, 37.7901],
+          [-122.3969, 37.7901],
+          [-122.3969, 37.7897]
+        ]
+      ]
+    },
+    "cooling_tower_present": false,
+    "cooling_tower_count": 0,
+    "cv_confidence_score": 0.68,
+    "imagery_date": "2023-06-14",
+    "imagery_source": "Sentinel-2",
+    "imagery_url": "/data/imagery/ca_sf_002.png",
+    "annual_rainfall_in": 23,
+    "harvestable_gal_yr": 1220000,
+    "drought_risk_index": 8.9,
+    "flood_risk_index": 5.9,
+    "water_rate_per_kgal": 8.0,
+    "sewer_rate_per_kgal": 9.1,
+    "annual_water_savings_usd": 9760,
+    "annual_sewer_savings_usd": 8390,
+    "incentive_value_usd": 25000,
+    "system_capex_range": [180000, 270000],
+    "simple_payback_yrs": 8.9,
+    "npv_10yr_usd": 72000,
+    "confidence_adj_roi_pct": 5.4,
+    "urgency_score": 8,
+    "urgency_drivers": [
+      "High water prices",
+      "ESG-sensitive tenant mix",
+      "Urban resilience goals"
+    ],
+    "recommended_angle": "esg_credibility",
+    "viability_score": 74
+  },
+  {
+    "building_id": "tx_aus_001",
+    "address": "400 Congress Ave, Austin, TX",
+    "lat": 30.2672,
+    "lng": -97.7431,
+    "metro": "Austin",
+    "state": "TX",
+    "building_type": "data_center",
+    "roof_area_sqft": 120000,
+    "roof_geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [-97.7431, 30.2672],
+          [-97.7436, 30.2672],
+          [-97.7436, 30.2677],
+          [-97.7431, 30.2677],
+          [-97.7431, 30.2672]
+        ]
+      ]
+    },
+    "cooling_tower_present": true,
+    "cooling_tower_count": 6,
+    "cv_confidence_score": 0.98,
+    "imagery_date": "2023-07-22",
+    "imagery_source": "Sentinel-2",
+    "imagery_url": "/data/imagery/tx_aus_001.png",
+    "annual_rainfall_in": 34,
+    "harvestable_gal_yr": 2500000,
+    "drought_risk_index": 7.0,
+    "flood_risk_index": 4.0,
+    "water_rate_per_kgal": 6.8,
+    "sewer_rate_per_kgal": 7.1,
+    "annual_water_savings_usd": 17000,
+    "annual_sewer_savings_usd": 17750,
+    "incentive_value_usd": 0,
+    "system_capex_range": [300000, 450000],
+    "simple_payback_yrs": 3.8,
+    "npv_10yr_usd": 85000,
+    "confidence_adj_roi_pct": 18.2,
+    "urgency_score": 9,
+    "urgency_drivers": [
+      "High water demand",
+      "Corporate ESG net-zero commitment",
+      "Cooling-intensive operations"
+    ],
+    "recommended_angle": "esg_credibility",
+    "viability_score": 96
+  },
+  {
+    "building_id": "tx_aus_002",
+    "address": "11801 Domain Blvd, Austin, TX",
+    "lat": 30.4049,
+    "lng": -97.7264,
+    "metro": "Austin",
+    "state": "TX",
+    "building_type": "mixed_use",
+    "roof_area_sqft": 132000,
+    "roof_geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [-97.7264, 30.4049],
+          [-97.7269, 30.4049],
+          [-97.7269, 30.4054],
+          [-97.7264, 30.4054],
+          [-97.7264, 30.4049]
+        ]
+      ]
+    },
+    "cooling_tower_present": true,
+    "cooling_tower_count": 2,
+    "cv_confidence_score": 0.87,
+    "imagery_date": "2023-07-18",
+    "imagery_source": "Sentinel-2",
+    "imagery_url": "/data/imagery/tx_aus_002.png",
+    "annual_rainfall_in": 34,
+    "harvestable_gal_yr": 2800000,
+    "drought_risk_index": 7.8,
+    "flood_risk_index": 4.1,
+    "water_rate_per_kgal": 5.2,
+    "sewer_rate_per_kgal": 6.5,
+    "annual_water_savings_usd": 14560,
+    "annual_sewer_savings_usd": 13200,
+    "incentive_value_usd": 18000,
+    "system_capex_range": [150000, 220000],
+    "simple_payback_yrs": 7.1,
+    "npv_10yr_usd": 112000,
+    "confidence_adj_roi_pct": 10.8,
+    "urgency_score": 8,
+    "urgency_drivers": [
+      "Severe drought risk",
+      "Urban water restrictions",
+      "High-density commercial demand"
+    ],
+    "recommended_angle": "resilience",
+    "viability_score": 82
+  },
+  {
+    "building_id": "tx_hou_001",
+    "address": "1515 Louisiana St, Houston, TX",
+    "lat": 29.7533,
+    "lng": -95.3698,
+    "metro": "Houston",
+    "state": "TX",
+    "building_type": "industrial_campus",
+    "roof_area_sqft": 145000,
+    "roof_geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [-95.3698, 29.7533],
+          [-95.3703, 29.7533],
+          [-95.3703, 29.7538],
+          [-95.3698, 29.7538],
+          [-95.3698, 29.7533]
+        ]
+      ]
+    },
+    "cooling_tower_present": true,
+    "cooling_tower_count": 5,
+    "cv_confidence_score": 0.93,
+    "imagery_date": "2023-08-03",
+    "imagery_source": "Sentinel-2",
+    "imagery_url": "/data/imagery/tx_hou_001.png",
+    "annual_rainfall_in": 49,
+    "harvestable_gal_yr": 3760000,
+    "drought_risk_index": 5.0,
+    "flood_risk_index": 8.6,
+    "water_rate_per_kgal": 4.9,
+    "sewer_rate_per_kgal": 5.7,
+    "annual_water_savings_usd": 18424,
+    "annual_sewer_savings_usd": 15008,
+    "incentive_value_usd": 12000,
+    "system_capex_range": [260000, 390000],
+    "simple_payback_yrs": 5.4,
+    "npv_10yr_usd": 133000,
+    "confidence_adj_roi_pct": 12.9,
+    "urgency_score": 8,
+    "urgency_drivers": [
+      "Flood resilience opportunity",
+      "Large cooling load",
+      "Industrial water demand"
+    ],
+    "recommended_angle": "resilience",
+    "viability_score": 89
+  },
+  {
+    "building_id": "tx_hou_002",
+    "address": "700 Milam St, Houston, TX",
+    "lat": 29.7604,
+    "lng": -95.3660,
+    "metro": "Houston",
+    "state": "TX",
+    "building_type": "office_tower",
+    "roof_area_sqft": 92000,
+    "roof_geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [-95.3660, 29.7604],
+          [-95.3664, 29.7604],
+          [-95.3664, 29.7608],
+          [-95.3660, 29.7608],
+          [-95.3660, 29.7604]
+        ]
+      ]
+    },
+    "cooling_tower_present": true,
+    "cooling_tower_count": 2,
+    "cv_confidence_score": 0.81,
+    "imagery_date": "2023-08-05",
+    "imagery_source": "Sentinel-2",
+    "imagery_url": "/data/imagery/tx_hou_002.png",
+    "annual_rainfall_in": 49,
+    "harvestable_gal_yr": 2380000,
+    "drought_risk_index": 4.8,
+    "flood_risk_index": 8.2,
+    "water_rate_per_kgal": 4.7,
+    "sewer_rate_per_kgal": 5.5,
+    "annual_water_savings_usd": 11186,
+    "annual_sewer_savings_usd": 9163,
+    "incentive_value_usd": 10000,
+    "system_capex_range": [180000, 260000],
+    "simple_payback_yrs": 7.0,
+    "npv_10yr_usd": 76000,
+    "confidence_adj_roi_pct": 8.1,
+    "urgency_score": 7,
+    "urgency_drivers": [
+      "Stormwater management pressure",
+      "Large roof catchment area",
+      "Downtown retrofit potential"
+    ],
+    "recommended_angle": "cost_savings",
+    "viability_score": 78
+  },
+  {
+    "building_id": "ny_nyc_001",
+    "address": "1 Penn Plaza, New York, NY",
+    "lat": 40.7505,
+    "lng": -73.9934,
+    "metro": "New York City",
+    "state": "NY",
+    "building_type": "high_rise_office",
+    "roof_area_sqft": 85000,
+    "roof_geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [-73.9934, 40.7505],
+          [-73.9938, 40.7505],
+          [-73.9938, 40.7509],
+          [-73.9934, 40.7509],
+          [-73.9934, 40.7505]
+        ]
+      ]
+    },
+    "cooling_tower_present": true,
+    "cooling_tower_count": 4,
+    "cv_confidence_score": 0.88,
+    "imagery_date": "2023-09-02",
+    "imagery_source": "Sentinel-2",
+    "imagery_url": "/data/imagery/ny_nyc_001.png",
+    "annual_rainfall_in": 46,
+    "harvestable_gal_yr": 2400000,
+    "drought_risk_index": 2.0,
+    "flood_risk_index": 8.0,
+    "water_rate_per_kgal": 9.5,
+    "sewer_rate_per_kgal": 11.2,
+    "annual_water_savings_usd": 22800,
+    "annual_sewer_savings_usd": 26880,
+    "incentive_value_usd": 150000,
+    "system_capex_range": [400000, 600000],
+    "simple_payback_yrs": 5.2,
+    "npv_10yr_usd": 40000,
+    "confidence_adj_roi_pct": 10.5,
+    "urgency_score": 8,
+    "urgency_drivers": [
+      "Local Law 97 compliance",
+      "Stormwater runoff pressure",
+      "High sewer cost environment"
+    ],
+    "recommended_angle": "compliance",
+    "viability_score": 84
+  }
+]

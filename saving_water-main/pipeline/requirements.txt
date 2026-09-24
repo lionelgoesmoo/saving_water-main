@@ -1,0 +1,14 @@
+python-dotenv
+geopandas>=0.14
+pandas>=2.0
+pyproj>=3.6
+shapely>=2.0
+duckdb>=0.10
+requests
+Pillow
+tqdm
+numpy
+
+# Step 7 (CV layer) — install separately if needed:
+# transformers
+# torch

@@ -1,0 +1,1765 @@
+[
+  {
+    "state": "South Africa",
+    "state_code": "ZA",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "market_readiness_score": 88.5,
+    "top_drivers": [
+      "Severe municipal water supply shedding",
+      "Aggressive water tariff escalation",
+      "GBCSA Green Star adoption"
+    ],
+    "candidate_count": 92,
+    "score_breakdown": {
+      "water_cost_pressure": 92,
+      "rainfall_capture": 74,
+      "commercial_density": 95,
+      "regulatory_pressure": 88,
+      "esg_alignment": 85
+    },
+    "metros": [
+      {
+        "metro": "Cape Town",
+        "state_code": "ZA",
+        "country_code": "ZA",
+        "market_readiness_score": 54.5,
+        "top_drivers": [
+          "Severe municipal water supply shedding",
+          "Aggressive water tariff escalation"
+        ],
+        "candidate_count": 28
+      },
+      {
+        "metro": "Johannesburg",
+        "state_code": "ZA",
+        "country_code": "ZA",
+        "market_readiness_score": 54.9,
+        "top_drivers": [
+          "Severe municipal water supply shedding",
+          "Aggressive water tariff escalation"
+        ],
+        "candidate_count": 32
+      },
+      {
+        "metro": "Durban",
+        "state_code": "ZA",
+        "country_code": "ZA",
+        "market_readiness_score": 54.2,
+        "top_drivers": [
+          "Severe municipal water supply shedding",
+          "Aggressive water tariff escalation"
+        ],
+        "candidate_count": 18
+      },
+      {
+        "metro": "Pretoria",
+        "state_code": "ZA",
+        "country_code": "ZA",
+        "market_readiness_score": 53.2,
+        "top_drivers": [
+          "Severe municipal water supply shedding",
+          "Aggressive water tariff escalation"
+        ],
+        "candidate_count": 14
+      }
+    ],
+    "avg_roof_area_sqft": 196152,
+    "pct_cooling_tower": 57.6,
+    "avg_annual_rainfall_in": 28.4,
+    "avg_annual_savings_usd": 49607.59,
+    "top_building_score": 67.6
+  },
+  {
+    "state": "Kenya",
+    "state_code": "KE",
+    "country": "Kenya",
+    "country_code": "KE",
+    "market_readiness_score": 82,
+    "top_drivers": [
+      "Nairobi water rationing & reliance on costly bowsers",
+      "High equatorial bi-modal rainfall capture",
+      "NEMA sustainability mandates"
+    ],
+    "candidate_count": 54,
+    "score_breakdown": {
+      "water_cost_pressure": 86,
+      "rainfall_capture": 90,
+      "commercial_density": 80,
+      "regulatory_pressure": 78,
+      "esg_alignment": 75
+    },
+    "metros": [
+      {
+        "metro": "Nairobi",
+        "state_code": "KE",
+        "country_code": "KE",
+        "market_readiness_score": 53.6,
+        "top_drivers": [
+          "Nairobi water rationing & reliance on costly bowsers",
+          "High equatorial bi-modal rainfall capture"
+        ],
+        "candidate_count": 30
+      },
+      {
+        "metro": "Mombasa",
+        "state_code": "KE",
+        "country_code": "KE",
+        "market_readiness_score": 52,
+        "top_drivers": [
+          "Nairobi water rationing & reliance on costly bowsers",
+          "High equatorial bi-modal rainfall capture"
+        ],
+        "candidate_count": 14
+      },
+      {
+        "metro": "Kisumu",
+        "state_code": "KE",
+        "country_code": "KE",
+        "market_readiness_score": 54.4,
+        "top_drivers": [
+          "Nairobi water rationing & reliance on costly bowsers",
+          "High equatorial bi-modal rainfall capture"
+        ],
+        "candidate_count": 10
+      }
+    ],
+    "avg_roof_area_sqft": 196909,
+    "pct_cooling_tower": 61.1,
+    "avg_annual_rainfall_in": 43.1,
+    "avg_annual_savings_usd": 69305.22,
+    "top_building_score": 63.8
+  },
+  {
+    "state": "Nigeria",
+    "state_code": "NG",
+    "country": "Nigeria",
+    "country_code": "NG",
+    "market_readiness_score": 79.5,
+    "top_drivers": [
+      "High private borehole & water treatment Capex",
+      "Massive rooftop logistics footprint",
+      "Heavy monsoonal rainfall yields"
+    ],
+    "candidate_count": 60,
+    "score_breakdown": {
+      "water_cost_pressure": 84,
+      "rainfall_capture": 94,
+      "commercial_density": 88,
+      "regulatory_pressure": 65,
+      "esg_alignment": 68
+    },
+    "metros": [
+      {
+        "metro": "Lagos",
+        "state_code": "NG",
+        "country_code": "NG",
+        "market_readiness_score": 47.5,
+        "top_drivers": [
+          "High private borehole & water treatment Capex",
+          "Massive rooftop logistics footprint"
+        ],
+        "candidate_count": 34
+      },
+      {
+        "metro": "Abuja",
+        "state_code": "NG",
+        "country_code": "NG",
+        "market_readiness_score": 48.5,
+        "top_drivers": [
+          "High private borehole & water treatment Capex",
+          "Massive rooftop logistics footprint"
+        ],
+        "candidate_count": 16
+      },
+      {
+        "metro": "Kano",
+        "state_code": "NG",
+        "country_code": "NG",
+        "market_readiness_score": 54.3,
+        "top_drivers": [
+          "High private borehole & water treatment Capex",
+          "Massive rooftop logistics footprint"
+        ],
+        "candidate_count": 10
+      }
+    ],
+    "avg_roof_area_sqft": 184482,
+    "pct_cooling_tower": 66.7,
+    "avg_annual_rainfall_in": 55.9,
+    "avg_annual_savings_usd": 80887.77,
+    "top_building_score": 64.6
+  },
+  {
+    "state": "Egypt",
+    "state_code": "EG",
+    "country": "Egypt",
+    "country_code": "EG",
+    "market_readiness_score": 72,
+    "top_drivers": [
+      "Extreme national water deficit & Nile quotas",
+      "Industrial cooling tower makeup priority",
+      "National water reuse initiatives"
+    ],
+    "candidate_count": 52,
+    "score_breakdown": {
+      "water_cost_pressure": 78,
+      "rainfall_capture": 35,
+      "commercial_density": 92,
+      "regulatory_pressure": 85,
+      "esg_alignment": 70
+    },
+    "metros": [
+      {
+        "metro": "Cairo",
+        "state_code": "EG",
+        "country_code": "EG",
+        "market_readiness_score": 57.5,
+        "top_drivers": [
+          "Extreme national water deficit & Nile quotas",
+          "Industrial cooling tower makeup priority"
+        ],
+        "candidate_count": 25
+      },
+      {
+        "metro": "Alexandria",
+        "state_code": "EG",
+        "country_code": "EG",
+        "market_readiness_score": 54.8,
+        "top_drivers": [
+          "Extreme national water deficit & Nile quotas",
+          "Industrial cooling tower makeup priority"
+        ],
+        "candidate_count": 15
+      },
+      {
+        "metro": "Giza",
+        "state_code": "EG",
+        "country_code": "EG",
+        "market_readiness_score": 58,
+        "top_drivers": [
+          "Extreme national water deficit & Nile quotas",
+          "Industrial cooling tower makeup priority"
+        ],
+        "candidate_count": 12
+      }
+    ],
+    "avg_roof_area_sqft": 194962,
+    "pct_cooling_tower": 61.5,
+    "avg_annual_rainfall_in": 3.5,
+    "avg_annual_savings_usd": 4300.03,
+    "top_building_score": 72.1
+  },
+  {
+    "state": "Morocco",
+    "state_code": "MA",
+    "country": "Morocco",
+    "country_code": "MA",
+    "market_readiness_score": 76.5,
+    "top_drivers": [
+      "Prolonged Mediterranean drought cycles",
+      "Export-oriented manufacturing ESG requirements",
+      "Desalination & water-saving tariffs"
+    ],
+    "candidate_count": 46,
+    "score_breakdown": {
+      "water_cost_pressure": 82,
+      "rainfall_capture": 68,
+      "commercial_density": 85,
+      "regulatory_pressure": 76,
+      "esg_alignment": 72
+    },
+    "metros": [
+      {
+        "metro": "Casablanca",
+        "state_code": "MA",
+        "country_code": "MA",
+        "market_readiness_score": 55.2,
+        "top_drivers": [
+          "Prolonged Mediterranean drought cycles",
+          "Export-oriented manufacturing ESG requirements"
+        ],
+        "candidate_count": 22
+      },
+      {
+        "metro": "Tangier",
+        "state_code": "MA",
+        "country_code": "MA",
+        "market_readiness_score": 50.9,
+        "top_drivers": [
+          "Prolonged Mediterranean drought cycles",
+          "Export-oriented manufacturing ESG requirements"
+        ],
+        "candidate_count": 14
+      },
+      {
+        "metro": "Rabat",
+        "state_code": "MA",
+        "country_code": "MA",
+        "market_readiness_score": 51.9,
+        "top_drivers": [
+          "Prolonged Mediterranean drought cycles",
+          "Export-oriented manufacturing ESG requirements"
+        ],
+        "candidate_count": 10
+      }
+    ],
+    "avg_roof_area_sqft": 203742,
+    "pct_cooling_tower": 60.9,
+    "avg_annual_rainfall_in": 21.1,
+    "avg_annual_savings_usd": 33535.61,
+    "top_building_score": 67.5
+  },
+  {
+    "state": "Ghana",
+    "state_code": "GH",
+    "country": "Ghana",
+    "country_code": "GH",
+    "market_readiness_score": 71,
+    "top_drivers": [
+      "GWCL industrial tariff surcharges",
+      "High coastal rainfall harvesting yield",
+      "Corporate Net Zero commitments"
+    ],
+    "candidate_count": 45,
+    "score_breakdown": {
+      "water_cost_pressure": 79,
+      "rainfall_capture": 82,
+      "commercial_density": 70,
+      "regulatory_pressure": 62,
+      "esg_alignment": 64
+    },
+    "metros": [
+      {
+        "metro": "Accra",
+        "state_code": "GH",
+        "country_code": "GH",
+        "market_readiness_score": 46.8,
+        "top_drivers": [
+          "GWCL industrial tariff surcharges",
+          "High coastal rainfall harvesting yield"
+        ],
+        "candidate_count": 20
+      },
+      {
+        "metro": "Tema",
+        "state_code": "GH",
+        "country_code": "GH",
+        "market_readiness_score": 49.3,
+        "top_drivers": [
+          "GWCL industrial tariff surcharges",
+          "High coastal rainfall harvesting yield"
+        ],
+        "candidate_count": 15
+      },
+      {
+        "metro": "Kumasi",
+        "state_code": "GH",
+        "country_code": "GH",
+        "market_readiness_score": 48.9,
+        "top_drivers": [
+          "GWCL industrial tariff surcharges",
+          "High coastal rainfall harvesting yield"
+        ],
+        "candidate_count": 10
+      }
+    ],
+    "avg_roof_area_sqft": 181452,
+    "pct_cooling_tower": 55.6,
+    "avg_annual_rainfall_in": 36.2,
+    "avg_annual_savings_usd": 50114.35,
+    "top_building_score": 64.1
+  },
+  {
+    "state": "Rwanda",
+    "state_code": "RW",
+    "country": "Rwanda",
+    "country_code": "RW",
+    "market_readiness_score": 74,
+    "top_drivers": [
+      "Green Building Minimum Compliance standards",
+      "Consistent highland rainfall",
+      "High industrial park water tariffs"
+    ],
+    "candidate_count": 16,
+    "score_breakdown": {
+      "water_cost_pressure": 75,
+      "rainfall_capture": 85,
+      "commercial_density": 65,
+      "regulatory_pressure": 82,
+      "esg_alignment": 78
+    },
+    "metros": [
+      {
+        "metro": "Kigali",
+        "state_code": "RW",
+        "country_code": "RW",
+        "market_readiness_score": 49.1,
+        "top_drivers": [
+          "Green Building Minimum Compliance standards",
+          "Consistent highland rainfall"
+        ],
+        "candidate_count": 16
+      }
+    ],
+    "avg_roof_area_sqft": 210955,
+    "pct_cooling_tower": 18.8,
+    "avg_annual_rainfall_in": 40.7,
+    "avg_annual_savings_usd": 64162.27,
+    "top_building_score": 60.1
+  },
+  {
+    "state": "Ethiopia",
+    "state_code": "ET",
+    "country": "Ethiopia",
+    "country_code": "ET",
+    "market_readiness_score": 66,
+    "top_drivers": [
+      "Industrial park export textile water demands",
+      "Highland rainy season capture potential",
+      "Industrial wastewater reuse targets"
+    ],
+    "candidate_count": 18,
+    "score_breakdown": {
+      "water_cost_pressure": 65,
+      "rainfall_capture": 82,
+      "commercial_density": 72,
+      "regulatory_pressure": 58,
+      "esg_alignment": 54
+    },
+    "metros": [
+      {
+        "metro": "Addis Ababa",
+        "state_code": "ET",
+        "country_code": "ET",
+        "market_readiness_score": 49.7,
+        "top_drivers": [
+          "Industrial park export textile water demands",
+          "Highland rainy season capture potential"
+        ],
+        "candidate_count": 18
+      }
+    ],
+    "avg_roof_area_sqft": 215861,
+    "pct_cooling_tower": 66.7,
+    "avg_annual_rainfall_in": 45.4,
+    "avg_annual_savings_usd": 57364.79,
+    "top_building_score": 63
+  },
+  {
+    "state": "Tanzania",
+    "state_code": "TZ",
+    "country": "Tanzania",
+    "country_code": "TZ",
+    "market_readiness_score": 65.5,
+    "top_drivers": [
+      "Coastal port and logistics growth",
+      "Equatorial rainfall capture",
+      "DAWASA commercial tariff restructuring"
+    ],
+    "candidate_count": 16,
+    "score_breakdown": {
+      "water_cost_pressure": 68,
+      "rainfall_capture": 80,
+      "commercial_density": 65,
+      "regulatory_pressure": 55,
+      "esg_alignment": 58
+    },
+    "metros": [
+      {
+        "metro": "Dar es Salaam",
+        "state_code": "TZ",
+        "country_code": "TZ",
+        "market_readiness_score": 46.2,
+        "top_drivers": [
+          "Coastal port and logistics growth",
+          "Equatorial rainfall capture"
+        ],
+        "candidate_count": 16
+      }
+    ],
+    "avg_roof_area_sqft": 201969,
+    "pct_cooling_tower": 75,
+    "avg_annual_rainfall_in": 45.2,
+    "avg_annual_savings_usd": 58687.42,
+    "top_building_score": 54.5
+  },
+  {
+    "state": "Senegal",
+    "state_code": "SN",
+    "country": "Senegal",
+    "country_code": "SN",
+    "market_readiness_score": 68,
+    "top_drivers": [
+      "Sahelian water stress in coastal megacities",
+      "Diamniadio Industrial Hub expansion",
+      "High corporate water security concerns"
+    ],
+    "candidate_count": 14,
+    "score_breakdown": {
+      "water_cost_pressure": 72,
+      "rainfall_capture": 60,
+      "commercial_density": 68,
+      "regulatory_pressure": 64,
+      "esg_alignment": 62
+    },
+    "metros": [
+      {
+        "metro": "Dakar",
+        "state_code": "SN",
+        "country_code": "SN",
+        "market_readiness_score": 50.7,
+        "top_drivers": [
+          "Sahelian water stress in coastal megacities",
+          "Diamniadio Industrial Hub expansion"
+        ],
+        "candidate_count": 14
+      }
+    ],
+    "avg_roof_area_sqft": 185581,
+    "pct_cooling_tower": 71.4,
+    "avg_annual_rainfall_in": 19.4,
+    "avg_annual_savings_usd": 25816.41,
+    "top_building_score": 58.2
+  },
+  {
+    "state": "Côte d'Ivoire",
+    "state_code": "CI",
+    "country": "Côte d'Ivoire",
+    "country_code": "CI",
+    "market_readiness_score": 67.5,
+    "top_drivers": [
+      "Tropical rainfall catchment yields",
+      "Vridi and Yopougon agro-processing water demands",
+      "Port logistics modernization"
+    ],
+    "candidate_count": 15,
+    "score_breakdown": {
+      "water_cost_pressure": 66,
+      "rainfall_capture": 88,
+      "commercial_density": 68,
+      "regulatory_pressure": 55,
+      "esg_alignment": 56
+    },
+    "metros": [
+      {
+        "metro": "Abidjan",
+        "state_code": "CI",
+        "country_code": "CI",
+        "market_readiness_score": 45.8,
+        "top_drivers": [
+          "Tropical rainfall catchment yields",
+          "Vridi and Yopougon agro-processing water demands"
+        ],
+        "candidate_count": 15
+      }
+    ],
+    "avg_roof_area_sqft": 217196,
+    "pct_cooling_tower": 66.7,
+    "avg_annual_rainfall_in": 71.7,
+    "avg_annual_savings_usd": 96562.87,
+    "top_building_score": 55.1
+  },
+  {
+    "state": "Algeria",
+    "state_code": "DZ",
+    "country": "Algeria",
+    "country_code": "DZ",
+    "market_readiness_score": 58,
+    "top_drivers": [
+      "High water stress in northern manufacturing belt",
+      "Cooling tower demand in petrochemicals",
+      "Desalination dependency"
+    ],
+    "candidate_count": 12,
+    "score_breakdown": {
+      "water_cost_pressure": 65,
+      "rainfall_capture": 45,
+      "commercial_density": 70,
+      "regulatory_pressure": 55,
+      "esg_alignment": 50
+    },
+    "metros": [
+      {
+        "metro": "Algiers",
+        "state_code": "DZ",
+        "country_code": "DZ",
+        "market_readiness_score": 49,
+        "top_drivers": [
+          "High water stress in northern manufacturing belt",
+          "Cooling tower demand in petrochemicals"
+        ],
+        "candidate_count": 12
+      }
+    ],
+    "avg_roof_area_sqft": 170408,
+    "pct_cooling_tower": 41.7,
+    "avg_annual_rainfall_in": 23.9,
+    "avg_annual_savings_usd": 22668.55,
+    "top_building_score": 58.6
+  },
+  {
+    "state": "Tunisia",
+    "state_code": "TN",
+    "country": "Tunisia",
+    "country_code": "TN",
+    "market_readiness_score": 62,
+    "top_drivers": [
+      "SONEDE industrial water quota limits",
+      "Automotive parts manufacturing growth",
+      "Severe Mediterranean water deficits"
+    ],
+    "candidate_count": 10,
+    "score_breakdown": {
+      "water_cost_pressure": 70,
+      "rainfall_capture": 50,
+      "commercial_density": 72,
+      "regulatory_pressure": 60,
+      "esg_alignment": 55
+    },
+    "metros": [
+      {
+        "metro": "Tunis",
+        "state_code": "TN",
+        "country_code": "TN",
+        "market_readiness_score": 54,
+        "top_drivers": [
+          "SONEDE industrial water quota limits",
+          "Automotive parts manufacturing growth"
+        ],
+        "candidate_count": 10
+      }
+    ],
+    "avg_roof_area_sqft": 227437,
+    "pct_cooling_tower": 80,
+    "avg_annual_rainfall_in": 18.6,
+    "avg_annual_savings_usd": 26288.93,
+    "top_building_score": 63.1
+  },
+  {
+    "state": "Namibia",
+    "state_code": "NA",
+    "country": "Namibia",
+    "country_code": "NA",
+    "market_readiness_score": 65,
+    "top_drivers": [
+      "Pioneering direct potable water reuse culture",
+      "Arid climate with severe commercial water tariffs",
+      "Mining and beverage processing"
+    ],
+    "candidate_count": 8,
+    "score_breakdown": {
+      "water_cost_pressure": 85,
+      "rainfall_capture": 35,
+      "commercial_density": 55,
+      "regulatory_pressure": 75,
+      "esg_alignment": 70
+    },
+    "metros": [
+      {
+        "metro": "Windhoek",
+        "state_code": "NA",
+        "country_code": "NA",
+        "market_readiness_score": 54.5,
+        "top_drivers": [
+          "Pioneering direct potable water reuse culture",
+          "Arid climate with severe commercial water tariffs"
+        ],
+        "candidate_count": 8
+      }
+    ],
+    "avg_roof_area_sqft": 212320,
+    "pct_cooling_tower": 75,
+    "avg_annual_rainfall_in": 14.7,
+    "avg_annual_savings_usd": 28972.08,
+    "top_building_score": 68.4
+  },
+  {
+    "state": "Zimbabwe",
+    "state_code": "ZW",
+    "country": "Zimbabwe",
+    "country_code": "ZW",
+    "market_readiness_score": 55,
+    "top_drivers": [
+      "Municipal infrastructure deficit and borehole drying",
+      "Industrial self-reliance in water capture",
+      "Mining and food manufacturing"
+    ],
+    "candidate_count": 8,
+    "score_breakdown": {
+      "water_cost_pressure": 62,
+      "rainfall_capture": 65,
+      "commercial_density": 58,
+      "regulatory_pressure": 45,
+      "esg_alignment": 48
+    },
+    "metros": [
+      {
+        "metro": "Harare",
+        "state_code": "ZW",
+        "country_code": "ZW",
+        "market_readiness_score": 48.5,
+        "top_drivers": [
+          "Municipal infrastructure deficit and borehole drying",
+          "Industrial self-reliance in water capture"
+        ],
+        "candidate_count": 8
+      }
+    ],
+    "avg_roof_area_sqft": 187019,
+    "pct_cooling_tower": 75,
+    "avg_annual_rainfall_in": 32.9,
+    "avg_annual_savings_usd": 37843.64,
+    "top_building_score": 56.4
+  },
+  {
+    "state": "Angola",
+    "state_code": "AO",
+    "country": "Angola",
+    "country_code": "AO",
+    "market_readiness_score": 43.3,
+    "top_drivers": [
+      "Emerging commercial rooftop potential",
+      "Regional water utility transition"
+    ],
+    "candidate_count": 0,
+    "score_breakdown": {
+      "water_cost_pressure": 39,
+      "rainfall_capture": 47.6,
+      "commercial_density": 34.6,
+      "regulatory_pressure": 36.8,
+      "esg_alignment": 32.5
+    },
+    "metros": [],
+    "avg_roof_area_sqft": null,
+    "pct_cooling_tower": null,
+    "avg_annual_rainfall_in": null,
+    "avg_annual_savings_usd": null,
+    "top_building_score": null
+  },
+  {
+    "state": "Benin",
+    "state_code": "BJ",
+    "country": "Benin",
+    "country_code": "BJ",
+    "market_readiness_score": 50.6,
+    "top_drivers": [
+      "Emerging commercial rooftop potential",
+      "Regional water utility transition"
+    ],
+    "candidate_count": 0,
+    "score_breakdown": {
+      "water_cost_pressure": 45.5,
+      "rainfall_capture": 55.7,
+      "commercial_density": 40.5,
+      "regulatory_pressure": 43,
+      "esg_alignment": 38
+    },
+    "metros": [],
+    "avg_roof_area_sqft": null,
+    "pct_cooling_tower": null,
+    "avg_annual_rainfall_in": null,
+    "avg_annual_savings_usd": null,
+    "top_building_score": null
+  },
+  {
+    "state": "Botswana",
+    "state_code": "BW",
+    "country": "Botswana",
+    "country_code": "BW",
+    "market_readiness_score": 52.6,
+    "top_drivers": [
+      "Emerging commercial rooftop potential",
+      "Regional water utility transition"
+    ],
+    "candidate_count": 0,
+    "score_breakdown": {
+      "water_cost_pressure": 47.3,
+      "rainfall_capture": 57.9,
+      "commercial_density": 42.1,
+      "regulatory_pressure": 44.7,
+      "esg_alignment": 39.5
+    },
+    "metros": [],
+    "avg_roof_area_sqft": null,
+    "pct_cooling_tower": null,
+    "avg_annual_rainfall_in": null,
+    "avg_annual_savings_usd": null,
+    "top_building_score": null
+  },
+  {
+    "state": "Burkina Faso",
+    "state_code": "BF",
+    "country": "Burkina Faso",
+    "country_code": "BF",
+    "market_readiness_score": 55.5,
+    "top_drivers": [
+      "Emerging commercial rooftop potential",
+      "Regional water utility transition"
+    ],
+    "candidate_count": 0,
+    "score_breakdown": {
+      "water_cost_pressure": 50,
+      "rainfall_capture": 61.1,
+      "commercial_density": 44.4,
+      "regulatory_pressure": 47.2,
+      "esg_alignment": 41.6
+    },
+    "metros": [],
+    "avg_roof_area_sqft": null,
+    "pct_cooling_tower": null,
+    "avg_annual_rainfall_in": null,
+    "avg_annual_savings_usd": null,
+    "top_building_score": null
+  },
+  {
+    "state": "Burundi",
+    "state_code": "BI",
+    "country": "Burundi",
+    "country_code": "BI",
+    "market_readiness_score": 52.6,
+    "top_drivers": [
+      "Emerging commercial rooftop potential",
+      "Regional water utility transition"
+    ],
+    "candidate_count": 0,
+    "score_breakdown": {
+      "water_cost_pressure": 47.3,
+      "rainfall_capture": 57.9,
+      "commercial_density": 42.1,
+      "regulatory_pressure": 44.7,
+      "esg_alignment": 39.5
+    },
+    "metros": [],
+    "avg_roof_area_sqft": null,
+    "pct_cooling_tower": null,
+    "avg_annual_rainfall_in": null,
+    "avg_annual_savings_usd": null,
+    "top_building_score": null
+  },
+  {
+    "state": "Cameroon",
+    "state_code": "CM",
+    "country": "Cameroon",
+    "country_code": "CM",
+    "market_readiness_score": 57.4,
+    "top_drivers": [
+      "Emerging commercial rooftop potential",
+      "Regional water utility transition"
+    ],
+    "candidate_count": 0,
+    "score_breakdown": {
+      "water_cost_pressure": 51.7,
+      "rainfall_capture": 63.1,
+      "commercial_density": 45.9,
+      "regulatory_pressure": 48.8,
+      "esg_alignment": 43
+    },
+    "metros": [],
+    "avg_roof_area_sqft": null,
+    "pct_cooling_tower": null,
+    "avg_annual_rainfall_in": null,
+    "avg_annual_savings_usd": null,
+    "top_building_score": null
+  },
+  {
+    "state": "Cape Verde",
+    "state_code": "CV",
+    "country": "Cape Verde",
+    "country_code": "CV",
+    "market_readiness_score": 51.1,
+    "top_drivers": [
+      "Emerging commercial rooftop potential",
+      "Regional water utility transition"
+    ],
+    "candidate_count": 0,
+    "score_breakdown": {
+      "water_cost_pressure": 46,
+      "rainfall_capture": 56.2,
+      "commercial_density": 40.9,
+      "regulatory_pressure": 43.4,
+      "esg_alignment": 38.3
+    },
+    "metros": [],
+    "avg_roof_area_sqft": null,
+    "pct_cooling_tower": null,
+    "avg_annual_rainfall_in": null,
+    "avg_annual_savings_usd": null,
+    "top_building_score": null
+  },
+  {
+    "state": "Central African Republic",
+    "state_code": "CF",
+    "country": "Central African Republic",
+    "country_code": "CF",
+    "market_readiness_score": 50,
+    "top_drivers": [
+      "Emerging commercial rooftop potential",
+      "Regional water utility transition"
+    ],
+    "candidate_count": 0,
+    "score_breakdown": {
+      "water_cost_pressure": 45,
+      "rainfall_capture": 55,
+      "commercial_density": 40,
+      "regulatory_pressure": 42.5,
+      "esg_alignment": 37.5
+    },
+    "metros": [],
+    "avg_roof_area_sqft": null,
+    "pct_cooling_tower": null,
+    "avg_annual_rainfall_in": null,
+    "avg_annual_savings_usd": null,
+    "top_building_score": null
+  },
+  {
+    "state": "Chad",
+    "state_code": "TD",
+    "country": "Chad",
+    "country_code": "TD",
+    "market_readiness_score": 44.7,
+    "top_drivers": [
+      "Emerging commercial rooftop potential",
+      "Regional water utility transition"
+    ],
+    "candidate_count": 0,
+    "score_breakdown": {
+      "water_cost_pressure": 40.2,
+      "rainfall_capture": 49.2,
+      "commercial_density": 35.8,
+      "regulatory_pressure": 38,
+      "esg_alignment": 33.5
+    },
+    "metros": [],
+    "avg_roof_area_sqft": null,
+    "pct_cooling_tower": null,
+    "avg_annual_rainfall_in": null,
+    "avg_annual_savings_usd": null,
+    "top_building_score": null
+  },
+  {
+    "state": "Comoros",
+    "state_code": "KM",
+    "country": "Comoros",
+    "country_code": "KM",
+    "market_readiness_score": 49.7,
+    "top_drivers": [
+      "Emerging commercial rooftop potential",
+      "Regional water utility transition"
+    ],
+    "candidate_count": 0,
+    "score_breakdown": {
+      "water_cost_pressure": 44.7,
+      "rainfall_capture": 54.7,
+      "commercial_density": 39.8,
+      "regulatory_pressure": 42.2,
+      "esg_alignment": 37.3
+    },
+    "metros": [],
+    "avg_roof_area_sqft": null,
+    "pct_cooling_tower": null,
+    "avg_annual_rainfall_in": null,
+    "avg_annual_savings_usd": null,
+    "top_building_score": null
+  },
+  {
+    "state": "Congo",
+    "state_code": "CG",
+    "country": "Congo",
+    "country_code": "CG",
+    "market_readiness_score": 44.1,
+    "top_drivers": [
+      "Emerging commercial rooftop potential",
+      "Regional water utility transition"
+    ],
+    "candidate_count": 0,
+    "score_breakdown": {
+      "water_cost_pressure": 39.7,
+      "rainfall_capture": 48.5,
+      "commercial_density": 35.3,
+      "regulatory_pressure": 37.5,
+      "esg_alignment": 33.1
+    },
+    "metros": [],
+    "avg_roof_area_sqft": null,
+    "pct_cooling_tower": null,
+    "avg_annual_rainfall_in": null,
+    "avg_annual_savings_usd": null,
+    "top_building_score": null
+  },
+  {
+    "state": "Djibouti",
+    "state_code": "DJ",
+    "country": "Djibouti",
+    "country_code": "DJ",
+    "market_readiness_score": 56.5,
+    "top_drivers": [
+      "Emerging commercial rooftop potential",
+      "Regional water utility transition"
+    ],
+    "candidate_count": 0,
+    "score_breakdown": {
+      "water_cost_pressure": 50.9,
+      "rainfall_capture": 62.2,
+      "commercial_density": 45.2,
+      "regulatory_pressure": 48,
+      "esg_alignment": 42.4
+    },
+    "metros": [],
+    "avg_roof_area_sqft": null,
+    "pct_cooling_tower": null,
+    "avg_annual_rainfall_in": null,
+    "avg_annual_savings_usd": null,
+    "top_building_score": null
+  },
+  {
+    "state": "Equatorial Guinea",
+    "state_code": "GQ",
+    "country": "Equatorial Guinea",
+    "country_code": "GQ",
+    "market_readiness_score": 48.1,
+    "top_drivers": [
+      "Emerging commercial rooftop potential",
+      "Regional water utility transition"
+    ],
+    "candidate_count": 0,
+    "score_breakdown": {
+      "water_cost_pressure": 43.3,
+      "rainfall_capture": 52.9,
+      "commercial_density": 38.5,
+      "regulatory_pressure": 40.9,
+      "esg_alignment": 36.1
+    },
+    "metros": [],
+    "avg_roof_area_sqft": null,
+    "pct_cooling_tower": null,
+    "avg_annual_rainfall_in": null,
+    "avg_annual_savings_usd": null,
+    "top_building_score": null
+  },
+  {
+    "state": "Eritrea",
+    "state_code": "ER",
+    "country": "Eritrea",
+    "country_code": "ER",
+    "market_readiness_score": 51.7,
+    "top_drivers": [
+      "Emerging commercial rooftop potential",
+      "Regional water utility transition"
+    ],
+    "candidate_count": 0,
+    "score_breakdown": {
+      "water_cost_pressure": 46.5,
+      "rainfall_capture": 56.9,
+      "commercial_density": 41.4,
+      "regulatory_pressure": 43.9,
+      "esg_alignment": 38.8
+    },
+    "metros": [],
+    "avg_roof_area_sqft": null,
+    "pct_cooling_tower": null,
+    "avg_annual_rainfall_in": null,
+    "avg_annual_savings_usd": null,
+    "top_building_score": null
+  },
+  {
+    "state": "Gabon",
+    "state_code": "GA",
+    "country": "Gabon",
+    "country_code": "GA",
+    "market_readiness_score": 55.1,
+    "top_drivers": [
+      "Emerging commercial rooftop potential",
+      "Regional water utility transition"
+    ],
+    "candidate_count": 0,
+    "score_breakdown": {
+      "water_cost_pressure": 49.6,
+      "rainfall_capture": 60.6,
+      "commercial_density": 44.1,
+      "regulatory_pressure": 46.8,
+      "esg_alignment": 41.3
+    },
+    "metros": [],
+    "avg_roof_area_sqft": null,
+    "pct_cooling_tower": null,
+    "avg_annual_rainfall_in": null,
+    "avg_annual_savings_usd": null,
+    "top_building_score": null
+  },
+  {
+    "state": "Gambia",
+    "state_code": "GM",
+    "country": "Gambia",
+    "country_code": "GM",
+    "market_readiness_score": 48.2,
+    "top_drivers": [
+      "Emerging commercial rooftop potential",
+      "Regional water utility transition"
+    ],
+    "candidate_count": 0,
+    "score_breakdown": {
+      "water_cost_pressure": 43.4,
+      "rainfall_capture": 53,
+      "commercial_density": 38.6,
+      "regulatory_pressure": 41,
+      "esg_alignment": 36.2
+    },
+    "metros": [],
+    "avg_roof_area_sqft": null,
+    "pct_cooling_tower": null,
+    "avg_annual_rainfall_in": null,
+    "avg_annual_savings_usd": null,
+    "top_building_score": null
+  },
+  {
+    "state": "Guinea",
+    "state_code": "GN",
+    "country": "Guinea",
+    "country_code": "GN",
+    "market_readiness_score": 42.8,
+    "top_drivers": [
+      "Emerging commercial rooftop potential",
+      "Regional water utility transition"
+    ],
+    "candidate_count": 0,
+    "score_breakdown": {
+      "water_cost_pressure": 38.5,
+      "rainfall_capture": 47.1,
+      "commercial_density": 34.2,
+      "regulatory_pressure": 36.4,
+      "esg_alignment": 32.1
+    },
+    "metros": [],
+    "avg_roof_area_sqft": null,
+    "pct_cooling_tower": null,
+    "avg_annual_rainfall_in": null,
+    "avg_annual_savings_usd": null,
+    "top_building_score": null
+  },
+  {
+    "state": "Guinea-Bissau",
+    "state_code": "GW",
+    "country": "Guinea-Bissau",
+    "country_code": "GW",
+    "market_readiness_score": 43.4,
+    "top_drivers": [
+      "Emerging commercial rooftop potential",
+      "Regional water utility transition"
+    ],
+    "candidate_count": 0,
+    "score_breakdown": {
+      "water_cost_pressure": 39.1,
+      "rainfall_capture": 47.7,
+      "commercial_density": 34.7,
+      "regulatory_pressure": 36.9,
+      "esg_alignment": 32.5
+    },
+    "metros": [],
+    "avg_roof_area_sqft": null,
+    "pct_cooling_tower": null,
+    "avg_annual_rainfall_in": null,
+    "avg_annual_savings_usd": null,
+    "top_building_score": null
+  },
+  {
+    "state": "Ivory Coast",
+    "state_code": "CI",
+    "country": "Ivory Coast",
+    "country_code": "CI",
+    "market_readiness_score": 58,
+    "top_drivers": [
+      "Emerging commercial rooftop potential",
+      "Regional water utility transition"
+    ],
+    "candidate_count": 0,
+    "score_breakdown": {
+      "water_cost_pressure": 52.2,
+      "rainfall_capture": 63.8,
+      "commercial_density": 46.4,
+      "regulatory_pressure": 49.3,
+      "esg_alignment": 43.5
+    },
+    "metros": [],
+    "avg_roof_area_sqft": null,
+    "pct_cooling_tower": null,
+    "avg_annual_rainfall_in": null,
+    "avg_annual_savings_usd": null,
+    "top_building_score": null
+  },
+  {
+    "state": "Lesotho",
+    "state_code": "LS",
+    "country": "Lesotho",
+    "country_code": "LS",
+    "market_readiness_score": 44.7,
+    "top_drivers": [
+      "Emerging commercial rooftop potential",
+      "Regional water utility transition"
+    ],
+    "candidate_count": 0,
+    "score_breakdown": {
+      "water_cost_pressure": 40.2,
+      "rainfall_capture": 49.2,
+      "commercial_density": 35.8,
+      "regulatory_pressure": 38,
+      "esg_alignment": 33.5
+    },
+    "metros": [],
+    "avg_roof_area_sqft": null,
+    "pct_cooling_tower": null,
+    "avg_annual_rainfall_in": null,
+    "avg_annual_savings_usd": null,
+    "top_building_score": null
+  },
+  {
+    "state": "Liberia",
+    "state_code": "LR",
+    "country": "Liberia",
+    "country_code": "LR",
+    "market_readiness_score": 56.4,
+    "top_drivers": [
+      "Emerging commercial rooftop potential",
+      "Regional water utility transition"
+    ],
+    "candidate_count": 0,
+    "score_breakdown": {
+      "water_cost_pressure": 50.8,
+      "rainfall_capture": 62,
+      "commercial_density": 45.1,
+      "regulatory_pressure": 47.9,
+      "esg_alignment": 42.3
+    },
+    "metros": [],
+    "avg_roof_area_sqft": null,
+    "pct_cooling_tower": null,
+    "avg_annual_rainfall_in": null,
+    "avg_annual_savings_usd": null,
+    "top_building_score": null
+  },
+  {
+    "state": "Libya",
+    "state_code": "LY",
+    "country": "Libya",
+    "country_code": "LY",
+    "market_readiness_score": 49.5,
+    "top_drivers": [
+      "Emerging commercial rooftop potential",
+      "Regional water utility transition"
+    ],
+    "candidate_count": 0,
+    "score_breakdown": {
+      "water_cost_pressure": 44.6,
+      "rainfall_capture": 54.5,
+      "commercial_density": 39.6,
+      "regulatory_pressure": 42.1,
+      "esg_alignment": 37.1
+    },
+    "metros": [],
+    "avg_roof_area_sqft": null,
+    "pct_cooling_tower": null,
+    "avg_annual_rainfall_in": null,
+    "avg_annual_savings_usd": null,
+    "top_building_score": null
+  },
+  {
+    "state": "Madagascar",
+    "state_code": "MG",
+    "country": "Madagascar",
+    "country_code": "MG",
+    "market_readiness_score": 56.9,
+    "top_drivers": [
+      "Emerging commercial rooftop potential",
+      "Regional water utility transition"
+    ],
+    "candidate_count": 0,
+    "score_breakdown": {
+      "water_cost_pressure": 51.2,
+      "rainfall_capture": 62.6,
+      "commercial_density": 45.5,
+      "regulatory_pressure": 48.4,
+      "esg_alignment": 42.7
+    },
+    "metros": [],
+    "avg_roof_area_sqft": null,
+    "pct_cooling_tower": null,
+    "avg_annual_rainfall_in": null,
+    "avg_annual_savings_usd": null,
+    "top_building_score": null
+  },
+  {
+    "state": "Malawi",
+    "state_code": "MW",
+    "country": "Malawi",
+    "country_code": "MW",
+    "market_readiness_score": 56.8,
+    "top_drivers": [
+      "Emerging commercial rooftop potential",
+      "Regional water utility transition"
+    ],
+    "candidate_count": 0,
+    "score_breakdown": {
+      "water_cost_pressure": 51.1,
+      "rainfall_capture": 62.5,
+      "commercial_density": 45.4,
+      "regulatory_pressure": 48.3,
+      "esg_alignment": 42.6
+    },
+    "metros": [],
+    "avg_roof_area_sqft": null,
+    "pct_cooling_tower": null,
+    "avg_annual_rainfall_in": null,
+    "avg_annual_savings_usd": null,
+    "top_building_score": null
+  },
+  {
+    "state": "Mali",
+    "state_code": "ML",
+    "country": "Mali",
+    "country_code": "ML",
+    "market_readiness_score": 57.9,
+    "top_drivers": [
+      "Emerging commercial rooftop potential",
+      "Regional water utility transition"
+    ],
+    "candidate_count": 0,
+    "score_breakdown": {
+      "water_cost_pressure": 52.1,
+      "rainfall_capture": 63.7,
+      "commercial_density": 46.3,
+      "regulatory_pressure": 49.2,
+      "esg_alignment": 43.4
+    },
+    "metros": [],
+    "avg_roof_area_sqft": null,
+    "pct_cooling_tower": null,
+    "avg_annual_rainfall_in": null,
+    "avg_annual_savings_usd": null,
+    "top_building_score": null
+  },
+  {
+    "state": "Mauritania",
+    "state_code": "MR",
+    "country": "Mauritania",
+    "country_code": "MR",
+    "market_readiness_score": 51.2,
+    "top_drivers": [
+      "Emerging commercial rooftop potential",
+      "Regional water utility transition"
+    ],
+    "candidate_count": 0,
+    "score_breakdown": {
+      "water_cost_pressure": 46.1,
+      "rainfall_capture": 56.3,
+      "commercial_density": 41,
+      "regulatory_pressure": 43.5,
+      "esg_alignment": 38.4
+    },
+    "metros": [],
+    "avg_roof_area_sqft": null,
+    "pct_cooling_tower": null,
+    "avg_annual_rainfall_in": null,
+    "avg_annual_savings_usd": null,
+    "top_building_score": null
+  },
+  {
+    "state": "Mauritius",
+    "state_code": "MU",
+    "country": "Mauritius",
+    "country_code": "MU",
+    "market_readiness_score": 45.7,
+    "top_drivers": [
+      "Emerging commercial rooftop potential",
+      "Regional water utility transition"
+    ],
+    "candidate_count": 0,
+    "score_breakdown": {
+      "water_cost_pressure": 41.1,
+      "rainfall_capture": 50.3,
+      "commercial_density": 36.6,
+      "regulatory_pressure": 38.8,
+      "esg_alignment": 34.3
+    },
+    "metros": [],
+    "avg_roof_area_sqft": null,
+    "pct_cooling_tower": null,
+    "avg_annual_rainfall_in": null,
+    "avg_annual_savings_usd": null,
+    "top_building_score": null
+  },
+  {
+    "state": "Mozambique",
+    "state_code": "MZ",
+    "country": "Mozambique",
+    "country_code": "MZ",
+    "market_readiness_score": 47.2,
+    "top_drivers": [
+      "Emerging commercial rooftop potential",
+      "Regional water utility transition"
+    ],
+    "candidate_count": 0,
+    "score_breakdown": {
+      "water_cost_pressure": 42.5,
+      "rainfall_capture": 51.9,
+      "commercial_density": 37.8,
+      "regulatory_pressure": 40.1,
+      "esg_alignment": 35.4
+    },
+    "metros": [],
+    "avg_roof_area_sqft": null,
+    "pct_cooling_tower": null,
+    "avg_annual_rainfall_in": null,
+    "avg_annual_savings_usd": null,
+    "top_building_score": null
+  },
+  {
+    "state": "Niger",
+    "state_code": "NE",
+    "country": "Niger",
+    "country_code": "NE",
+    "market_readiness_score": 53.7,
+    "top_drivers": [
+      "Emerging commercial rooftop potential",
+      "Regional water utility transition"
+    ],
+    "candidate_count": 0,
+    "score_breakdown": {
+      "water_cost_pressure": 48.3,
+      "rainfall_capture": 59.1,
+      "commercial_density": 43,
+      "regulatory_pressure": 45.6,
+      "esg_alignment": 40.3
+    },
+    "metros": [],
+    "avg_roof_area_sqft": null,
+    "pct_cooling_tower": null,
+    "avg_annual_rainfall_in": null,
+    "avg_annual_savings_usd": null,
+    "top_building_score": null
+  },
+  {
+    "state": "La Reunion",
+    "state_code": "LA",
+    "country": "La Reunion",
+    "country_code": "LA",
+    "market_readiness_score": 50.6,
+    "top_drivers": [
+      "Emerging commercial rooftop potential",
+      "Regional water utility transition"
+    ],
+    "candidate_count": 0,
+    "score_breakdown": {
+      "water_cost_pressure": 45.5,
+      "rainfall_capture": 55.7,
+      "commercial_density": 40.5,
+      "regulatory_pressure": 43,
+      "esg_alignment": 38
+    },
+    "metros": [],
+    "avg_roof_area_sqft": null,
+    "pct_cooling_tower": null,
+    "avg_annual_rainfall_in": null,
+    "avg_annual_savings_usd": null,
+    "top_building_score": null
+  },
+  {
+    "state": "Sao Tome and Principe",
+    "state_code": "ST",
+    "country": "Sao Tome and Principe",
+    "country_code": "ST",
+    "market_readiness_score": 44.3,
+    "top_drivers": [
+      "Emerging commercial rooftop potential",
+      "Regional water utility transition"
+    ],
+    "candidate_count": 0,
+    "score_breakdown": {
+      "water_cost_pressure": 39.9,
+      "rainfall_capture": 48.7,
+      "commercial_density": 35.4,
+      "regulatory_pressure": 37.7,
+      "esg_alignment": 33.2
+    },
+    "metros": [],
+    "avg_roof_area_sqft": null,
+    "pct_cooling_tower": null,
+    "avg_annual_rainfall_in": null,
+    "avg_annual_savings_usd": null,
+    "top_building_score": null
+  },
+  {
+    "state": "Seychelles",
+    "state_code": "SC",
+    "country": "Seychelles",
+    "country_code": "SC",
+    "market_readiness_score": 45.6,
+    "top_drivers": [
+      "Emerging commercial rooftop potential",
+      "Regional water utility transition"
+    ],
+    "candidate_count": 0,
+    "score_breakdown": {
+      "water_cost_pressure": 41,
+      "rainfall_capture": 50.2,
+      "commercial_density": 36.5,
+      "regulatory_pressure": 38.8,
+      "esg_alignment": 34.2
+    },
+    "metros": [],
+    "avg_roof_area_sqft": null,
+    "pct_cooling_tower": null,
+    "avg_annual_rainfall_in": null,
+    "avg_annual_savings_usd": null,
+    "top_building_score": null
+  },
+  {
+    "state": "Sierra Leone",
+    "state_code": "SL",
+    "country": "Sierra Leone",
+    "country_code": "SL",
+    "market_readiness_score": 50.3,
+    "top_drivers": [
+      "Emerging commercial rooftop potential",
+      "Regional water utility transition"
+    ],
+    "candidate_count": 0,
+    "score_breakdown": {
+      "water_cost_pressure": 45.3,
+      "rainfall_capture": 55.3,
+      "commercial_density": 40.2,
+      "regulatory_pressure": 42.8,
+      "esg_alignment": 37.7
+    },
+    "metros": [],
+    "avg_roof_area_sqft": null,
+    "pct_cooling_tower": null,
+    "avg_annual_rainfall_in": null,
+    "avg_annual_savings_usd": null,
+    "top_building_score": null
+  },
+  {
+    "state": "Somalia",
+    "state_code": "SO",
+    "country": "Somalia",
+    "country_code": "SO",
+    "market_readiness_score": 49.9,
+    "top_drivers": [
+      "Emerging commercial rooftop potential",
+      "Regional water utility transition"
+    ],
+    "candidate_count": 0,
+    "score_breakdown": {
+      "water_cost_pressure": 44.9,
+      "rainfall_capture": 54.9,
+      "commercial_density": 39.9,
+      "regulatory_pressure": 42.4,
+      "esg_alignment": 37.4
+    },
+    "metros": [],
+    "avg_roof_area_sqft": null,
+    "pct_cooling_tower": null,
+    "avg_annual_rainfall_in": null,
+    "avg_annual_savings_usd": null,
+    "top_building_score": null
+  },
+  {
+    "state": "Sudan",
+    "state_code": "SD",
+    "country": "Sudan",
+    "country_code": "SD",
+    "market_readiness_score": 50.4,
+    "top_drivers": [
+      "Emerging commercial rooftop potential",
+      "Regional water utility transition"
+    ],
+    "candidate_count": 0,
+    "score_breakdown": {
+      "water_cost_pressure": 45.4,
+      "rainfall_capture": 55.4,
+      "commercial_density": 40.3,
+      "regulatory_pressure": 42.8,
+      "esg_alignment": 37.8
+    },
+    "metros": [],
+    "avg_roof_area_sqft": null,
+    "pct_cooling_tower": null,
+    "avg_annual_rainfall_in": null,
+    "avg_annual_savings_usd": null,
+    "top_building_score": null
+  },
+  {
+    "state": "South Sudan",
+    "state_code": "SS",
+    "country": "South Sudan",
+    "country_code": "SS",
+    "market_readiness_score": 55.3,
+    "top_drivers": [
+      "Emerging commercial rooftop potential",
+      "Regional water utility transition"
+    ],
+    "candidate_count": 0,
+    "score_breakdown": {
+      "water_cost_pressure": 49.8,
+      "rainfall_capture": 60.8,
+      "commercial_density": 44.2,
+      "regulatory_pressure": 47,
+      "esg_alignment": 41.5
+    },
+    "metros": [],
+    "avg_roof_area_sqft": null,
+    "pct_cooling_tower": null,
+    "avg_annual_rainfall_in": null,
+    "avg_annual_savings_usd": null,
+    "top_building_score": null
+  },
+  {
+    "state": "Swaziland",
+    "state_code": "SZ",
+    "country": "Swaziland",
+    "country_code": "SZ",
+    "market_readiness_score": 53.9,
+    "top_drivers": [
+      "Emerging commercial rooftop potential",
+      "Regional water utility transition"
+    ],
+    "candidate_count": 0,
+    "score_breakdown": {
+      "water_cost_pressure": 48.5,
+      "rainfall_capture": 59.3,
+      "commercial_density": 43.1,
+      "regulatory_pressure": 45.8,
+      "esg_alignment": 40.4
+    },
+    "metros": [],
+    "avg_roof_area_sqft": null,
+    "pct_cooling_tower": null,
+    "avg_annual_rainfall_in": null,
+    "avg_annual_savings_usd": null,
+    "top_building_score": null
+  },
+  {
+    "state": "Togo",
+    "state_code": "TG",
+    "country": "Togo",
+    "country_code": "TG",
+    "market_readiness_score": 54.4,
+    "top_drivers": [
+      "Emerging commercial rooftop potential",
+      "Regional water utility transition"
+    ],
+    "candidate_count": 0,
+    "score_breakdown": {
+      "water_cost_pressure": 49,
+      "rainfall_capture": 59.8,
+      "commercial_density": 43.5,
+      "regulatory_pressure": 46.2,
+      "esg_alignment": 40.8
+    },
+    "metros": [],
+    "avg_roof_area_sqft": null,
+    "pct_cooling_tower": null,
+    "avg_annual_rainfall_in": null,
+    "avg_annual_savings_usd": null,
+    "top_building_score": null
+  },
+  {
+    "state": "Uganda",
+    "state_code": "UG",
+    "country": "Uganda",
+    "country_code": "UG",
+    "market_readiness_score": 49.9,
+    "top_drivers": [
+      "Emerging commercial rooftop potential",
+      "Regional water utility transition"
+    ],
+    "candidate_count": 0,
+    "score_breakdown": {
+      "water_cost_pressure": 44.9,
+      "rainfall_capture": 54.9,
+      "commercial_density": 39.9,
+      "regulatory_pressure": 42.4,
+      "esg_alignment": 37.4
+    },
+    "metros": [],
+    "avg_roof_area_sqft": null,
+    "pct_cooling_tower": null,
+    "avg_annual_rainfall_in": null,
+    "avg_annual_savings_usd": null,
+    "top_building_score": null
+  },
+  {
+    "state": "Western Sahara",
+    "state_code": "EH",
+    "country": "Western Sahara",
+    "country_code": "EH",
+    "market_readiness_score": 53.5,
+    "top_drivers": [
+      "Emerging commercial rooftop potential",
+      "Regional water utility transition"
+    ],
+    "candidate_count": 0,
+    "score_breakdown": {
+      "water_cost_pressure": 48.1,
+      "rainfall_capture": 58.9,
+      "commercial_density": 42.8,
+      "regulatory_pressure": 45.5,
+      "esg_alignment": 40.1
+    },
+    "metros": [],
+    "avg_roof_area_sqft": null,
+    "pct_cooling_tower": null,
+    "avg_annual_rainfall_in": null,
+    "avg_annual_savings_usd": null,
+    "top_building_score": null
+  },
+  {
+    "state": "DR Congo",
+    "state_code": "DR",
+    "country": "DR Congo",
+    "country_code": "DR",
+    "market_readiness_score": 51.2,
+    "top_drivers": [
+      "Emerging commercial rooftop potential",
+      "Regional water utility transition"
+    ],
+    "candidate_count": 0,
+    "score_breakdown": {
+      "water_cost_pressure": 46.1,
+      "rainfall_capture": 56.3,
+      "commercial_density": 41,
+      "regulatory_pressure": 43.5,
+      "esg_alignment": 38.4
+    },
+    "metros": [],
+    "avg_roof_area_sqft": null,
+    "pct_cooling_tower": null,
+    "avg_annual_rainfall_in": null,
+    "avg_annual_savings_usd": null,
+    "top_building_score": null
+  },
+  {
+    "state": "Zambia",
+    "state_code": "ZM",
+    "country": "Zambia",
+    "country_code": "ZM",
+    "market_readiness_score": 49.2,
+    "top_drivers": [
+      "Emerging commercial rooftop potential",
+      "Regional water utility transition"
+    ],
+    "candidate_count": 0,
+    "score_breakdown": {
+      "water_cost_pressure": 44.3,
+      "rainfall_capture": 54.1,
+      "commercial_density": 39.4,
+      "regulatory_pressure": 41.8,
+      "esg_alignment": 36.9
+    },
+    "metros": [],
+    "avg_roof_area_sqft": null,
+    "pct_cooling_tower": null,
+    "avg_annual_rainfall_in": null,
+    "avg_annual_savings_usd": null,
+    "top_building_score": null
+  }
+]
